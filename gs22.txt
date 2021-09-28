@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 read the file from the stash merge cmd
+<<<<<<< Updated upstream
 =======
 ------------
 =========
@@ -8,4 +9,7 @@ read the file from the stash merge cmd
 
 
 
+>>>>>>> Stashed changes
+=======
+kkdkjfgijdkkghoksdmc
 >>>>>>> Stashed changes
