@@ -1,8 +1,12 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 =======
 \\\\\\\\\\\\\\\\\
 [[[[[[[[[[[
 ]]]]]]]]]]
 
+>>>>>>> Stashed changes
+=======
+the file is a  local repo to central repo 
 >>>>>>> Stashed changes
