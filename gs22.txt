@@ -1,1 +1,11 @@
+<<<<<<< Updated upstream
 read the file from the stash merge cmd
+=======
+------------
+=========
+\\\\\\\\\\\\
+
+
+
+
+>>>>>>> Stashed changes
