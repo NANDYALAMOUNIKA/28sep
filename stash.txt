@@ -1,8 +1,0 @@
-<<<<<<< Updated upstream
-
-
-these  file is going to use stash cmd 
->>>>>>> Stashed changes
-=======
-the second code is used to paste  the data and code
->>>>>>> Stashed changes
