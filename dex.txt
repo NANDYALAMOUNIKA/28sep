@@ -1,4 +1,0 @@
-the files is a local repo 
-committed changes to the local repo to central repo
-git commited ref to the cmd using the push origin main 
-.................
